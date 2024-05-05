@@ -11,4 +11,5 @@
 
 Смоделируйте ситуацию, при которой при обращении к http://demowebshop.tricentis.com/ пользователь увидит в браузере любую картинку
 
+--- Мой вариант решения задачи
 https://drive.google.com/file/d/1iA2hznU2N2p7nK4K9OHxpLWe3bYDRpl6/view?usp=sharing
